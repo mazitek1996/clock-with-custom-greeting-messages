@@ -58,7 +58,7 @@ greetings.innerHTML = "It's a new day!, How can we get you started " + userName
 
 
 else if(hour > 24 )
-null
+
 
 else
 greetings.innerHTML = "Good night see you tomorrow " + userName 
